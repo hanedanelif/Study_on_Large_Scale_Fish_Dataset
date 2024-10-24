@@ -1,4 +1,7 @@
 # Study_on_Large_Scale_Fish_Dataset
+
+https://www.kaggle.com/code/elifhanedan/study-on-large-scale-fish-dataset
+
 Fish Species Classification Using Deep Learning
 This project aims to classify various species of fish using deep learning techniques. The dataset used is A Large Scale Fish Dataset from Kaggle, containing images of different fish species. We apply data preprocessing, image augmentation, and deep learning model training to achieve optimal classification results.
 
